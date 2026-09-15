@@ -2,6 +2,7 @@
 
 An interactive Power BI dashboard analyzing patient visits, demographics, and department workload for a clinic, built from patient admission records, doctor records, and a date/calendar table.
 
+<img width="1899" height="769" alt="image" src="https://github.com/user-attachments/assets/43c291e7-f894-43a6-8fb5-b91d9a9eab78" />
 
 
 ## 📊 Business Problem
